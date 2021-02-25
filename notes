@@ -1,0 +1,19 @@
+given:
+-> description of city plan
+-> planned paths for all cars in the city
+
+
+goal:
+-> optimize the schedule of traffic lights
+-> minimize total amount of time spent in traffic
+-> maximize number of cars reaching destination before deadline
+
+
+flow problem????
+bellman ford
+
+schedule:
+-> list of pairs (incoming street, duration)
+-> always red on some streets
+
+ignorar na fase inicial time-based things
