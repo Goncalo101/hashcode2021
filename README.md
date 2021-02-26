@@ -2,6 +2,7 @@
 Solution for the 2021 edition of Google HashCode
 
 Team: Eme de Maria
+
 Team Members:
 
 * André Mori [@andremmori](https://github.com/andremmori/)
